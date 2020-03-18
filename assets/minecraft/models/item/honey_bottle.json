@@ -1,0 +1,15 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/honey_bottle"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1},"model": "item/food/general/churro"},
+    {"predicate": {"custom_model_data": 2},"model": "item/food/general/cookie"},
+    {"predicate": {"custom_model_data": 3},"model": "item/food/general/mickey_ice_cream_sandwich"},
+    {"predicate": {"custom_model_data": 4},"model": "item/food/general/strawberry_fruit_bar"},
+    {"predicate": {"custom_model_data": 5},"model": "item/food/general/mickey_ice_cream_bar"},
+    {"predicate": {"custom_model_data": 6},"model": "item/food/general/matterhorn_macaroon"},
+    {"predicate": {"custom_model_data": 7},"model": "item/food/general/frozen_banana"}
+	]
+}

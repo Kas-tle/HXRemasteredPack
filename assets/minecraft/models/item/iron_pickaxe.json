@@ -1,0 +1,1 @@
+{"parent":"item/handheld","textures":{"layer0":"item/iron_pickaxe"},"overrides":[{"predicate":{"damage":0.004,"damaged":1},"model":"item/pokemon/001"},{"predicate":{"damage":0.008,"damaged":1},"model":"item/pokemon/004"},{"predicate":{"damage":0.012,"damaged":1},"model":"item/pokemon/007"}]}

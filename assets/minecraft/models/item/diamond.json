@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/diamond"
+  },
+  "overrides": [
+    {"predicate": {"custom_model_data": 1},"model": "block/flower_pot_birch"},
+    {"predicate": {"custom_model_data": 2},"model": "block/flower_pot_dandelion"},
+    {"predicate": {"custom_model_data": 3},"model": "block/flower_pot_dead_bush"},
+    {"predicate": {"custom_model_data": 4},"model": "block/flower_pot_fern"},
+    {"predicate": {"custom_model_data": 5},"model": "block/flower_pot_mushroom_brown"},
+    {"predicate": {"custom_model_data": 6},"model": "block/flower_pot_mushroom_red"}
+	]
+}
