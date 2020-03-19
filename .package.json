@@ -1,0 +1,25 @@
+{
+	"name": "HXRemasteredPack",
+	"version": "1.0.0",
+	"description": "A 1.15.2 ported and optimized version of the Haxiclesticks Server Resource Pack. All models were originally created by GamerKM.",
+	"keywords": [
+		"server",
+		"resource",
+		"minecraft",
+		"haxiclesticks",
+		"pack"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Kas-tle/HXRemasteredPack.git"
+	},
+	"scripts": {
+		"release": "release-it"
+	},
+	"homepage": "https://github.com/Kas-tle/HXRemasteredPack#readme",
+	"bugs": "https://github.com/Kas-tle/HXRemasteredPack/issues",
+	"author": {
+		"email": "models@kastle.tk",
+		"name": "Kastle"
+	}
+}
