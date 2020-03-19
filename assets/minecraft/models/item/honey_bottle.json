@@ -10,6 +10,7 @@
     {"predicate": {"custom_model_data": 4},"model": "item/food/general/strawberry_fruit_bar"},
     {"predicate": {"custom_model_data": 5},"model": "item/food/general/mickey_ice_cream_bar"},
     {"predicate": {"custom_model_data": 6},"model": "item/food/general/matterhorn_macaroon"},
-    {"predicate": {"custom_model_data": 7},"model": "item/food/general/frozen_banana"}
+    {"predicate": {"custom_model_data": 7},"model": "item/food/general/frozen_banana"},
+    {"predicate": {"custom_model_data": 8},"model": "item/food/special/dole_whip"}
 	]
 }
