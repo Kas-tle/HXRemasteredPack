@@ -9,6 +9,12 @@
     {"predicate": {"custom_model_data": 3},"model": "block/flower_pot_dead_bush"},
     {"predicate": {"custom_model_data": 4},"model": "block/flower_pot_fern"},
     {"predicate": {"custom_model_data": 5},"model": "block/flower_pot_mushroom_brown"},
-    {"predicate": {"custom_model_data": 6},"model": "block/flower_pot_mushroom_red"}
+    {"predicate": {"custom_model_data": 6},"model": "block/flower_pot_mushroom_red"},
+    {"predicate": {"custom_model_data": 7},"model": "item/jungle_cruise/croc"},
+    {"predicate": {"custom_model_data": 8},"model": "item/jungle_cruise/elephant"},
+    {"predicate": {"custom_model_data": 9},"model": "item/jungle_cruise/gorilla"},
+    {"predicate": {"custom_model_data": 10},"model": "item/jungle_cruise/hippo"},
+    {"predicate": {"custom_model_data": 11},"model": "item/jungle_cruise/rhino"},
+    {"predicate": {"custom_model_data": 12},"model": "item/jungle_cruise/vulture"}
 	]
 }
