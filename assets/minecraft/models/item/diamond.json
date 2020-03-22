@@ -15,6 +15,8 @@
     {"predicate": {"custom_model_data": 9},"model": "item/jungle_cruise/gorilla"},
     {"predicate": {"custom_model_data": 10},"model": "item/jungle_cruise/hippo"},
     {"predicate": {"custom_model_data": 11},"model": "item/jungle_cruise/rhino"},
-    {"predicate": {"custom_model_data": 12},"model": "item/jungle_cruise/vulture"}
+    {"predicate": {"custom_model_data": 12},"model": "item/jungle_cruise/vulture"},
+    {"predicate": {"custom_model_data": 13},"model": "item/jungle_cruise/elephant_statue"},
+    {"predicate": {"custom_model_data": 14},"model": "item/jungle_cruise/elepahnt_toy"}
 	]
 }
