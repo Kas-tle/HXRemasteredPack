@@ -479,7 +479,21 @@
 "sounds":[{"name":"indie_ride/indie_movie/indie_movie_06","stream":false}],"category":"record"},
 "indie_movie_07":{
 "sounds":[{"name":"indie_ride/indie_movie/indie_movie_07","stream":false}],"category":"record"},
-"entity.armor_stand.place": {
-"sounds": ["empty/empty"], "subtitle": "subtitles.block.generic.place"},
-"item.honey_bottle.drink": {"sounds": [{"name": "random/eat1"},{"name": "random/eat2"},{"name": "random/eat3"},{"name": "random/burp"}],"subtitle": "subtitles.item.honey_bottle.drink"}
+"item.honey_bottle.drink": {"sounds": [{"name": "random/eat1"},{"name": "random/eat2"},{"name": "random/eat3"},{"name": "random/burp"}]},
+"jungle_cruise_01":{
+"sounds":[{"name":"jungle_cruise/jungle_cruise_01","stream":false}],"category":"record"},
+"jungle_cruise_02":{
+"sounds":[{"name":"jungle_cruise/jungle_cruise_02","stream":false}],"category":"record"},
+"jungle_cruise_03":{
+"sounds":[{"name":"jungle_cruise/jungle_cruise_03","stream":false}],"category":"record"},
+"jungle_cruise_04":{
+"sounds":[{"name":"jungle_cruise/jungle_cruise_04","stream":false}],"category":"record"},
+"jungle_cruise_05":{
+"sounds":[{"name":"jungle_cruise/jungle_cruise_05","stream":false}],"category":"record"},
+"jungle_cruise_06":{
+"sounds":[{"name":"jungle_cruise/jungle_cruise_06","stream":false}],"category":"record"},
+"jungle_cruise_07":{
+"sounds":[{"name":"jungle_cruise/jungle_cruise_07","stream":false}],"category":"record"},
+"jungle_cruise_08":{
+"sounds":[{"name":"jungle_cruise/jungle_cruise_08","stream":false}],"category":"record"}
 }
