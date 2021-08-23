@@ -1,2 +1,4 @@
-# HXRemasteredPack
- A 1.16.4 ported and optimized version of the Haxiclesticks Server Resource Pack. All models were originally created by GamerKM.
+# HXRemasteredPack [![GitHub Super-Linter](https://github.com/Kas-tle/HXRemasteredPack/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter) [![GitHub release](https://img.shields.io/github/release/Kas-tle/HXRemasteredPack.svg)](https://GitHub.com/Kas-tle/HXRemasteredPack/releases/) [![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/BDkjngX)
+ A 1.17.1 ported and optimized version of the Haxiclesticks Server Resource Pack. All models were originally created by GamerKM.
+
+Used for Kinevo to host the project on legacy status. Join at `mc.kinevo.net`. More information in the Discord linked above.
