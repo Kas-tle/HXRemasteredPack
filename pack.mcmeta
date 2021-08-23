@@ -1,9 +1,7 @@
 {
   "pack": {
-    "pack_format": 6,
-    "description": "GamerKM\u0027s Disneyland Pack. Converted by _Kastle."
-  },
-  "meta": {
-    "game_version": "1.15"
+    "pack_format": 7,
+    "description": "GamerKM\u0027s Disneyland Pack. Converted by _Kastle.",
+    "version": "1.0.0"
   }
 }
